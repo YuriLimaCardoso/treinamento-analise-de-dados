@@ -41,3 +41,9 @@ A pasta `/data` concentra todos os arquivos e tabelas utilizados durante as prá
 ---
 
 > 💡 **Nota:** A partir da Aula 02, todas as atividades passaram a utilizar o **Jupyter Notebook (`.ipynb`)** para garantir uma leitura de código mais fluida, visual e organizada.
+
+> 💡 **Nota:** Instalar as bibliotecas necessárias para correta execução dos Notebooks.
+
+```
+pip install pandas seaborn numpy
+```
